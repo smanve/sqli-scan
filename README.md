@@ -1,2 +1,2 @@
 # sqli-scan
-Scrip in Python to scan for common SQL injection vulnerabilities
+Script in Python to scan for common SQL injection vulnerabilities
